@@ -1,0 +1,15 @@
+D:\BSTU\ООП\TPL\bin\Debug\net6.0\TPL.exe
+D:\BSTU\ООП\TPL\bin\Debug\net6.0\TPL.deps.json
+D:\BSTU\ООП\TPL\bin\Debug\net6.0\TPL.runtimeconfig.json
+D:\BSTU\ООП\TPL\bin\Debug\net6.0\TPL.dll
+D:\BSTU\ООП\TPL\bin\Debug\net6.0\TPL.pdb
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.csproj.AssemblyReference.cache
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.AssemblyInfoInputs.cache
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.AssemblyInfo.cs
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.dll
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\refint\TPL.dll
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.pdb
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\TPL.genruntimeconfig.cache
+D:\BSTU\ООП\TPL\obj\Debug\net6.0\ref\TPL.dll

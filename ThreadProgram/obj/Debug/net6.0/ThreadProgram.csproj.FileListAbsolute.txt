@@ -1,0 +1,15 @@
+D:\BSTU\ООП\ThreadProgram\bin\Debug\net6.0\ThreadProgram.exe
+D:\BSTU\ООП\ThreadProgram\bin\Debug\net6.0\ThreadProgram.deps.json
+D:\BSTU\ООП\ThreadProgram\bin\Debug\net6.0\ThreadProgram.runtimeconfig.json
+D:\BSTU\ООП\ThreadProgram\bin\Debug\net6.0\ThreadProgram.dll
+D:\BSTU\ООП\ThreadProgram\bin\Debug\net6.0\ThreadProgram.pdb
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.csproj.AssemblyReference.cache
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.AssemblyInfoInputs.cache
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.AssemblyInfo.cs
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.dll
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\refint\ThreadProgram.dll
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.pdb
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ThreadProgram.genruntimeconfig.cache
+D:\BSTU\ООП\ThreadProgram\obj\Debug\net6.0\ref\ThreadProgram.dll

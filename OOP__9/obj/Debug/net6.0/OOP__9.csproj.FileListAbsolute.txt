@@ -1,0 +1,15 @@
+D:\BSTU\ООП\OOP__9\bin\Debug\net6.0\OOP__9.exe
+D:\BSTU\ООП\OOP__9\bin\Debug\net6.0\OOP__9.deps.json
+D:\BSTU\ООП\OOP__9\bin\Debug\net6.0\OOP__9.runtimeconfig.json
+D:\BSTU\ООП\OOP__9\bin\Debug\net6.0\OOP__9.dll
+D:\BSTU\ООП\OOP__9\bin\Debug\net6.0\OOP__9.pdb
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.csproj.AssemblyReference.cache
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.AssemblyInfoInputs.cache
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.AssemblyInfo.cs
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.dll
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\refint\OOP__9.dll
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.pdb
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\OOP__9.genruntimeconfig.cache
+D:\BSTU\ООП\OOP__9\obj\Debug\net6.0\ref\OOP__9.dll

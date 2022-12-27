@@ -1,0 +1,17 @@
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\OOP__4.exe
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\OOP__4.deps.json
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\OOP__4.runtimeconfig.json
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\OOP__4.dll
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\OOP__4.pdb
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.csproj.AssemblyReference.cache
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.AssemblyInfoInputs.cache
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.AssemblyInfo.cs
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.dll
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\refint\OOP__4.dll
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.pdb
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.genruntimeconfig.cache
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\ref\OOP__4.dll
+D:\BSTU\ООП\OOP__4\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\BSTU\ООП\OOP__4\obj\Debug\net6.0\OOP__4.csproj.CopyComplete

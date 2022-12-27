@@ -1,0 +1,15 @@
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.csproj.AssemblyReference.cache
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.AssemblyInfoInputs.cache
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.AssemblyInfo.cs
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\OOP__8\bin\Debug\net6.0\OOP__8.exe
+D:\BSTU\ООП\OOP__8\bin\Debug\net6.0\OOP__8.deps.json
+D:\BSTU\ООП\OOP__8\bin\Debug\net6.0\OOP__8.runtimeconfig.json
+D:\BSTU\ООП\OOP__8\bin\Debug\net6.0\OOP__8.dll
+D:\BSTU\ООП\OOP__8\bin\Debug\net6.0\OOP__8.pdb
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.dll
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\refint\OOP__8.dll
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.pdb
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\OOP__8.genruntimeconfig.cache
+D:\BSTU\ООП\OOP__8\obj\Debug\net6.0\ref\OOP__8.dll
